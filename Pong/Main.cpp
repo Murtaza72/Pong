@@ -26,7 +26,7 @@ struct Paddle
 
 	void Draw()
 	{
-		DrawRectangleRec(GetRec(), WHITE);
+		DrawRectangleRec(GetRec(), BLUE);
 	}
 };
 
